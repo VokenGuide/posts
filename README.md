@@ -8,5 +8,5 @@
 
 ## Menu
 
-待续……
-
+- [如何借助 Voken 项目赚取至少 100 万人民币](https://github.com/VokenGuide/posts/blob/master/1million.md)
+- 逐渐更新中……
