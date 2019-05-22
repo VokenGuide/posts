@@ -7,7 +7,7 @@
 
 ## 什么是 Voken：全球第一个具有明确使用价值锚定的加密货币
 
-Voken 是 [vision.network](https://vision.network/zh-cn) 远景网络全球生态系统中的唯一通证，中文称为 **流量币** 更贴切。
+Voken 是 [vision.network](https://vision.network/zh-cn) 远景网络全球生态系统中的唯一通证，中文称为 **流量币** 会更贴切，因为它直接和流量锚定关联。
 
 每 1 Voken 准确锚定 100GB 国际互联网流量，使用价值明确。**简单来说，在生态发展的第一阶段，可以用于在网络受限地区翻墙访问国际互联网，1 Voken 可以使用 100GB 流量。**
 
