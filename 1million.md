@@ -2,7 +2,7 @@
 
 这个标题一点都不耸人听闻。
 
-[Voken](https://voken.io/zh_CN/latest) 是一个空前的、真正有使用价值的应用级落地项目！
+[Voken](https://voken.io/zh_CN/latest) 是一个空前的、刚需应用的、真正有使用价值的、流量级的落地项目！
 
 
 ## 什么是 Voken：全球第一个具有明确使用价值锚定的加密货币
