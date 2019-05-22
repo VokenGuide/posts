@@ -64,6 +64,8 @@ Voken 是 [vision.network](https://vision.network/zh-cn) 远景网络全球生�
 
 ## 商业分析
 
+受篇幅限制，这里也是只分析第一层翻墙服务了，如果有深圳了解更多和更深入，读官方文档站 https://voken.io/ 会得到更多更详细的信息。
+
 1. 刚需
 2. 痛点明确
    - 早期的代理技术比如 HTTP 和 Socks5 因为流量特殊明确，早已不能使用
