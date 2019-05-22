@@ -48,10 +48,43 @@ Voken 是 [vision.network](https://vision.network/zh-cn) 远景网络全球生�
    - 海外游戏用户
    - 加密货币投资人、使用者与相关开发人员
    - 其它
-4. 去中心化方案优点明显，动态 IP、动态协议、动态端口、隧道加密，技术不受封锁
+
+
+## 技术分析
+
+技术讲多了太深奥，通俗的说说他们的第一层服务吧 —— 翻墙：
+
+![SORRY](https://github.com/VokenGuide/posts/blob/master/images/sorry.gif?raw=true)
+
+去中心化方案优点明显：
+
+- 无法封锁：动态 IP、动态协议、动态端口
+- 不被监控：隧道加密
+- 按量计费：不用套路
+
+<img src="https://github.com/VokenGuide/posts/blob/master/images/vnVPN1.png?raw=true" width="600" alt="vnVPN1" align=center />
+<img src="https://github.com/VokenGuide/posts/blob/master/images/vnVPN2.png?raw=true" width="600" alt="vnVPN2" align=center />
+
+按项目规划，未来还有多层匿名代理、vnIM 点对点加密的即时通信、vnCDN 内容加速分发、vnDDoS 安全防御等和系列 ToC 和 ToB 的流量级的基础设施服务，就不在这里一一展开了。
 
 
 ## “Voken 转介引荐计划”是什么
 
-## ...
+官方完整版：[Voken 转介引荐计划](https://voken.io/zh_CN/latest/policy/voken_referral_program.html)
+
+在 Voken 公开销售过程中，通过注册白名单可以获得**买一送一**特权，注册白名单的操作会将推荐关系写在**以太坊区块链**上，**透明公开、无可篡改**。
+
+依据链上的推荐关系，将获得 15 级分销收益：
+
+1. 推荐注册白名单，15 级推荐关系，1001 Voken 会 100% 用于奖励
+2. 推广的白名单地址参加 Voken 公开销售，15 级推荐关系，共 35% 的销售提成，直接奖励 ETH 相当于现金提成
+3. 每个赛季的业绩（15 级推荐关系）排名前 100% 共同瓜分销售总额最高 65% 的奖池，也是直接奖励 ETH
+
+简单的说：
+
+1. **【注册奖】** 15 级共 1001 Voken
+2. **【销售奖】** 15 级共 35% 直接 ETH 奖励
+3. **【排名奖】** 每个赛季成绩排名前 100 共同瓜分奖池
+
+官方完整版：[Voken 转介引荐计划](https://voken.io/zh_CN/latest/policy/voken_referral_program.html)
 
