@@ -22,7 +22,7 @@ Voken 是 [vision.network](https://vision.network/zh-cn) 远景网络全球生�
 
 我们认为未来市场价格表现应会围绕此价格，不会低于太多，也不会高于太多，市场会自动产生博弈力量追逐真正的价值，这是其内在使用价值的准确锚定所带来的必然结果。
 
-<img src="https://github.com/VokenGuide/posts/blob/master/images/cdn_pricing.png?raw=true" width="800" alt="CDN Pricing" />
+![CDN Pricing](https://github.com/VokenGuide/posts/blob/master/images/cdn_pricing.png?raw=true)
 
 附图，是我在网上查到的**主流机房至中国和亚洲区**的加速流量资源价格，**不止 $8** ！！竟然可以达到 **$14.5 ~ $20 每 100G**，南非的流量最贵到 **$25**
 
