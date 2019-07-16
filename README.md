@@ -6,7 +6,7 @@
 
 `0x8D24771EA817710e8c175Bc2f15Dd86D950D0544`
 
-## Menu
+## 目录索引
 
 - [八二共识](https://github.com/VokenGuide/posts/blob/master/82.md)
 - [讲解 VOKEN 的三层业务](https://github.com/VokenGuide/posts/blob/master/intro.md)
