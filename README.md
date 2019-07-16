@@ -8,5 +8,10 @@
 
 ## Menu
 
+- [八二共识](https://github.com/VokenGuide/posts/blob/master/82.md)
 - [讲解 VOKEN 的三层业务](https://github.com/VokenGuide/posts/blob/master/intro.md)
-- 逐渐更新中……
+
+
+------
+
+#逐渐更新中#
